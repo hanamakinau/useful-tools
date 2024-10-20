@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">便利ツール</string>
+  <string name="back">戻る</string>
+  <string name="random_teaming_input_members">1. メンバーの入力</string>
+  <string name="random_teaming_input_members_description">メンバーをカンマ区切りもしくは改行して入力してください。</string>
+  <string name="random_teaming_select_settings">2. メンバー分けの設定</string>
+  <string name="random_teaming_select_settings_description">チーム数などを設定してください。</string>
+  <string name="random_teaming_result">3. メンバー分けの結果</string>
+</resources>
